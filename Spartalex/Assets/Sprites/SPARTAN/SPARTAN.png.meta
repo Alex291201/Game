@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: cd0e2176bae65c8479d71caa9f9f8067
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2089716169556849067
+    second: SPARTAN_0
+  - first:
+      213: -3446841687377403642
+    second: SPARTAN_1
+  - first:
+      213: 3460000611880381399
+    second: SPARTAN_2
+  - first:
+      213: 2248303193327838909
+    second: SPARTAN_3
+  - first:
+      213: 8470908806882919145
+    second: SPARTAN_4
+  - first:
+      213: -5522078482186327197
+    second: SPARTAN_5
+  - first:
+      213: -7668923893191271183
+    second: SPARTAN_6
+  - first:
+      213: -5561655525613680165
+    second: SPARTAN_7
+  - first:
+      213: -1376727799562903103
+    second: SPARTAN_8
+  - first:
+      213: 7672517300338285766
+    second: SPARTAN_9
+  - first:
+      213: -8105366455727667365
+    second: SPARTAN_10
+  - first:
+      213: -1162869742682223916
+    second: SPARTAN_11
+  - first:
+      213: -5048252479870657901
+    second: SPARTAN_12
+  - first:
+      213: -6825782496096482259
+    second: SPARTAN_13
+  - first:
+      213: 8862037461116694689
+    second: SPARTAN_14
+  - first:
+      213: -75518335416168914
+    second: SPARTAN_15
+  - first:
+      213: 4831176196885830693
+    second: SPARTAN_16
+  - first:
+      213: 8896638910423483314
+    second: SPARTAN_17
+  - first:
+      213: 5477210265597228620
+    second: SPARTAN_18
+  - first:
+      213: 2151560492520091843
+    second: SPARTAN_19
+  - first:
+      213: -8501865491530330508
+    second: SPARTAN_20
+  - first:
+      213: 7362512067565436076
+    second: SPARTAN_21
+  - first:
+      213: 6240814902688247320
+    second: SPARTAN_22
+  - first:
+      213: -4996193615270393100
+    second: SPARTAN_23
+  - first:
+      213: 8050290852437349755
+    second: SPARTAN_24
+  - first:
+      213: -724307682644928653
+    second: SPARTAN_25
+  - first:
+      213: -8020621124339220660
+    second: SPARTAN_26
+  - first:
+      213: 6449059081292873147
+    second: SPARTAN_27
+  - first:
+      213: -7917385792144417348
+    second: SPARTAN_28
+  - first:
+      213: 1436249545024213103
+    second: SPARTAN_29
+  - first:
+      213: -3192413789436393889
+    second: SPARTAN_30
+  - first:
+      213: 7027869846734695682
+    second: SPARTAN_31
+  - first:
+      213: -7985434379563351439
+    second: SPARTAN_32
+  - first:
+      213: -3823322366991409695
+    second: SPARTAN_33
+  - first:
+      213: -2383638589157161187
+    second: SPARTAN_34
+  - first:
+      213: 4940176568328911614
+    second: SPARTAN_35
+  - first:
+      213: 3676199595462637368
+    second: SPARTAN_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPARTAN_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 209
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e8c203736dff2e0800000000000000
+      internalID: -2089716169556849067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 209
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601acda5fbb5a20d0800000000000000
+      internalID: -3446841687377403642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 209
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba3c18934640030800000000000000
+      internalID: 3460000611880381399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 209
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6aea1a7d3933f10800000000000000
+      internalID: 2248303193327838909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 209
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20cf6dda6be8570800000000000000
+      internalID: 8470908806882919145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 209
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba47fa0e2ad53b0800000000000000
+      internalID: -5522078482186327197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 209
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc14d0d952829590800000000000000
+      internalID: -7668923893191271183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 209
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd945b034c701d2b0800000000000000
+      internalID: -5561655525613680165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 161
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e5aa4c51e4ece0800000000000000
+      internalID: -1376727799562903103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 162
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccd3bb75d14a7a60800000000000000
+      internalID: 7672517300338285766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 161
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b574cff0724f38f80800000000000000
+      internalID: -8105366455727667365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 160
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da40635128acdfe0800000000000000
+      internalID: -1162869742682223916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 161
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a13d8cd1101f9b0800000000000000
+      internalID: -5048252479870657901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 163
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c071efbf2f541a0800000000000000
+      internalID: -6825782496096482259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b0182e184cfa70800000000000000
+      internalID: 8862037461116694689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 161
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8d7b5974b3fef0800000000000000
+      internalID: -75518335416168914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd3b68729cb0340800000000000000
+      internalID: 4831176196885830693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 113
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3c5bed3f5377b70800000000000000
+      internalID: 8896638910423483314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46bb0197b5f20c40800000000000000
+      internalID: 5477210265597228620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 113
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0bc655ed0ebdd10800000000000000
+      internalID: 2151560492520091843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ece29516e430a80800000000000000
+      internalID: -8501865491530330508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 113
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacb3c997b5ec2660800000000000000
+      internalID: 7362512067565436076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 113
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e62b7b614db9650800000000000000
+      internalID: 6240814902688247320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 113
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4facbbcb064f9aab0800000000000000
+      internalID: -4996193615270393100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75da16c0e068bf60800000000000000
+      internalID: 8050290852437349755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 65
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377dcdb000eb2f5f0800000000000000
+      internalID: -724307682644928653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f34cd159701b090800000000000000
+      internalID: -8020621124339220660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 65
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf7fbd019af7950800000000000000
+      internalID: 6449059081292873147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd185f19bcf1290800000000000000
+      internalID: -7917385792144417348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 65
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f601cf30a559ee310800000000000000
+      internalID: 1436249545024213103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c598929442b3d0800000000000000
+      internalID: -3192413789436393889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 64
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dec4ee362088160800000000000000
+      internalID: 7027869846734695682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724fec8db90e2190800000000000000
+      internalID: -7985434379563351439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 17
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eddba56094d0fac0800000000000000
+      internalID: -3823322366991409695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17cf5c055d9beed0800000000000000
+      internalID: -2383638589157161187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPARTAN_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf3fa2a680f8440800000000000000
+      internalID: 4940176568328911614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
